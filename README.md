@@ -7,7 +7,7 @@ This is a Runbook Workflow to automatically turn on your VM in Azure Sentinel.
 1. Open the **Azure Portal** and navigate to your **Automation Account**.
 2. In the **Process Automation** section, click **Runbooks**.
 3. Click **Create a Runbook**.
-   - **Name**: AutoTurnOn-VM
+   - **Name**: AutoStart-VM
    - **Runbook Type**: PowerShell Workflow
    - **Description**: A workflow to auto-start a VM in Azure.
 4. Click **Create**.
